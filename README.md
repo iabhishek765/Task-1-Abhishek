@@ -76,7 +76,8 @@ The objective of this project is to create an interactive chatbot that:
 
 ```
 Rule_Based_Chatbot/
-│
+│screenshots
+├──chatbot_demo_.png
 ├── chatbot.py
 ├── README.md
 ```
