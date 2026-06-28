@@ -8,7 +8,6 @@ This project demonstrates the fundamental concepts of Artificial Intelligence, i
 
 ---
 
-## Screenshots
 
 ### Chatbot Demo 
 
