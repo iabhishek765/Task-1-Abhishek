@@ -11,7 +11,7 @@ This project demonstrates the fundamental concepts of Artificial Intelligence, i
 
 ### Chatbot Demo 
 
-![Chatbot Demo ]
+
 <p align="center">
   <img src="screenshots/chatbot_demo.png" width="800" alt="Demo">
 </p>
